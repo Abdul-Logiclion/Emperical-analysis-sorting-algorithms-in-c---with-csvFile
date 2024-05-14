@@ -1,0 +1,37 @@
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.exe
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.deps.json
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.runtimeconfig.json
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.dll
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.pdb
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.AssemblyInfoInputs.cache
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.AssemblyInfo.cs
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.csproj.CoreCompileInputs.cache
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.dll
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\refint\Task 1 - Sorting Empirical Analysis.dll
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.pdb
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.genruntimeconfig.cache
+C:\Users\kassa\OneDrive\Documents\MCAST\DSA\2024\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\ref\Task 1 - Sorting Empirical Analysis.dll
+C:\Users\Spider Computer\Downloads\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.csproj.AssemblyReference.cache
+C:\Users\Spider Computer\Downloads\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spider Computer\Downloads\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.AssemblyInfoInputs.cache
+C:\Users\Spider Computer\Downloads\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.AssemblyInfo.cs
+C:\Users\Spider Computer\Downloads\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Spider Computer\Downloads\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.dll
+C:\Users\Spider Computer\Downloads\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\ref\Task 1 - Sorting Empirical Analysis.dll
+C:\Users\Spider Computer\Downloads\DSA 1 - Home Assignment Solution\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.pdb
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.csproj.AssemblyReference.cache
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.AssemblyInfoInputs.cache
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.AssemblyInfo.cs
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.csproj.CoreCompileInputs.cache
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.dll
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\ref\Task 1 - Sorting Empirical Analysis.dll
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.pdb
+D:\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.exe
+D:\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.deps.json
+D:\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.runtimeconfig.json
+D:\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.dll
+D:\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\ref\Task 1 - Sorting Empirical Analysis.dll
+D:\DSA 1 - Home Assignment Solution\bin\Debug\net6.0\Task 1 - Sorting Empirical Analysis.pdb
+D:\DSA 1 - Home Assignment Solution\obj\Debug\net6.0\Task 1 - Sorting Empirical Analysis.genruntimeconfig.cache
